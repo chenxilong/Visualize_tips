@@ -1,0 +1,13 @@
+{
+	"file": "file:///Users/xilongchen/Library/CloudStorage/OneDrive-Personal/Postdoc/XILONG_apple_genome/analysis_2022_Mar/run_Find_gene/upset_analysis/test.input.txt",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
