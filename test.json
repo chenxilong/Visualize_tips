@@ -1,5 +1,5 @@
 {
-	"file": "file:///Users/xilongchen/Library/CloudStorage/OneDrive-Personal/Postdoc/XILONG_apple_genome/analysis_2022_Mar/run_Find_gene/upset_analysis/test.input.txt",
+	"file": "https://raw.githubusercontent.com/chenxilong/Visualize_tips/main/test.input.txt",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
